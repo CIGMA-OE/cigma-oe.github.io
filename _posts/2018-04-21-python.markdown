@@ -48,7 +48,7 @@ Aula Móvil.
 
 No es estrictamente necesario tener python instalado en el computador.
 
-## ¿Cual será el contenido del curso?
+## ¿Cuál será el contenido del curso?
 El curso contará con dos secciones, en las cuales se introducirán algunos
 conceptos básicos de la programación en python, estas secciones serán las
 siguientes:
