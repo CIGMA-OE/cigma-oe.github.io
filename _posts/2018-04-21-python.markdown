@@ -2,7 +2,7 @@
 layout: post
 title: Curso introductorio de Python
 comments: true
-category: upcoming
+category: previous
 tags: curso <+ tags +>
 ---
 Aprende de programación en el lenguaje de programación Python, con una
@@ -62,11 +62,5 @@ siguientes:
   * Conceptos de mutabilidad, inmutabilidad, secuencia, iterador.
   * Estructuras de control: if, for, while. Estructuras por comprensión.
 
-### Sección 2:
-  * Funciones: definición, argumentos posiciónales y nominales.
-  * Generadores. Funciones incorporadas: zip, range, enumerate, etc.
-  * Manejo de I/O: lectura y escritura de archivos.
-  * Manejo de excepciones.
-  * Manejadores de contexto.
-  * Estructura de proyectos: módulos, paquetes, importación.
-  * Conceptos básicos de programacion orientada a objetos.
+## ¿Dónde puedo encontrar las diapositivas del curso?
+El notebook utilizado se encuentra tanto [aquí](http://nbviewer.jupyter.org/github/CIGMA-OE/python-2018/blob/master/S1.ipynb) como en [este](https://github.com/CIGMA-OE/python-2018) repositorio de github.
