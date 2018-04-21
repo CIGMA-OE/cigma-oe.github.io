@@ -2,7 +2,7 @@
 layout: post
 title: Curso introductorio de Python
 comments: true
-category: previous
+category: past
 tags: curso <+ tags +>
 ---
 Aprende de programación en el lenguaje de programación Python, con una
