@@ -9,10 +9,11 @@ tags: curso <+ tags +>
 
 ## ¿Qué es Sci--Talks
 Es un espacio en el cual profesores y alumnos pueden transmitir conocimientos
-por medio del debate de temas cientificiso de la actualidad, formao de charlas
-divulgativas cortas, tipo TED.
+por medio del debate de temas científicos de la actualidad, con el formato de charlas
+divulgativas cortas tipo TED.
 
 ## ¿Dónde?
-En el Ágora.
+En el Ágora - Universidad EAFIT.
 
-## Participantes:
+## ¿Cuándo?
+03:00pm a 05:00pm
