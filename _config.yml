@@ -7,9 +7,9 @@ kramdown:
 github: CIGMA-OE
 url: https://cigma-oe.github.io/
 name: CIGMA-OE
-description: Comite interno de ingeniería matematica
+description: Comite interno de ingeniería matemática
 facebook: cigmaoe
-calendar: /curso_python_20181.ics
+calendar: 
 mailinglist: mailto:cigma-oe@eafit.edu.co
 gravatar_url:
 disqus_username:
